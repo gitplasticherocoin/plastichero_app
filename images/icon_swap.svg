@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+    <path data-name="사각형 1920" style="fill:none" d="M0 0h29v29H0z"/>
+    <g data-name="icon_swap">
+        <g data-name="그룹 971">
+            <g data-name="그룹 970">
+                <path data-name="패스 1510" d="M900.588 1012.234a7 7 0 0 1-7-7h0a7 7 0 0 1 7-7h0a7 7 0 0 1 6.322 3.991" style="stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" transform="translate(-890.588 -995.173)"/>
+                <path data-name="선 50" transform="translate(9.77 17.061)" style="stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="M0 0h10.435"/>
+                <path data-name="선 51" transform="translate(18.55 14.54)" style="stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="m0 0 2.469 2.517"/>
+                <path data-name="선 52" transform="translate(18.55 17.065)" style="stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="M0 2.517 2.469 0"/>
+            </g>
+        </g>
+        <g data-name="그룹 973">
+            <g data-name="그룹 972">
+                <path data-name="패스 1511" d="M908.919 1006.112a7 7 0 0 1 7 7h0a7 7 0 0 1-7 7h0a7 7 0 0 1-6.322-3.991" style="stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" transform="translate(-890.588 -995.173)"/>
+                <path data-name="선 53" transform="translate(8.126 10.939)" style="stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="M10.435 0H0"/>
+                <path data-name="선 54" transform="translate(7.312 10.943)" style="stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="M2.469 2.517 0 0"/>
+                <path data-name="선 55" transform="translate(7.312 8.418)" style="stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="M2.469 0 0 2.517"/>
+            </g>
+        </g>
+    </g>
+</svg>

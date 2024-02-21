@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288859424767",
+    "project_id": "pthapp-eee18",
+    "storage_bucket": "pthapp-eee18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288859424767:android:33fcbf8e7b50f6384e89ca",
+        "android_client_info": {
+          "package_name": "io.ecocentre.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVEXGXrqPJoEzFfGWj3hIg_wjQAga6yzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

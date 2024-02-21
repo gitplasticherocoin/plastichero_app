@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <g data-name="그룹 496">
+        <path data-name="사각형 1808" style="fill:none" d="M0 0h20v20H0z"/>
+        <g data-name="그룹 495">
+            <path data-name="패스 196" d="M517.325 886.827v1.523a3.319 3.319 0 0 0 3.31 3.309h2.357" transform="translate(-515.658 -873.326)" style="stroke:#333;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none"/>
+            <path data-name="패스 197" d="M522.992 872.626h-2.357a3.32 3.32 0 0 0-3.31 3.31v1.523" transform="translate(-515.658 -870.959)" style="stroke:#333;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none"/>
+            <path data-name="패스 198" d="M536.192 877.459v-1.523a3.32 3.32 0 0 0-3.31-3.31h-2.357" transform="translate(-517.858 -870.959)" style="stroke:#333;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none"/>
+            <path data-name="패스 199" d="M530.525 891.659h2.357a3.319 3.319 0 0 0 3.31-3.309v-1.523" transform="translate(-517.858 -873.326)" style="stroke:#333;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none"/>
+            <path data-name="선 34" transform="translate(1.667 9.87)" style="stroke:#333;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none" d="M0 0h16.667"/>
+        </g>
+    </g>
+</svg>

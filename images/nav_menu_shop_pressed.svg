@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.5" height="22" viewBox="0 0 23.5 22">
+    <path data-name="사각형 1774" style="fill:none" d="M0 0h22v22H0z" transform="translate(.75)"/>
+    <g data-name="그룹 462" transform="translate(-671.366 -83.549)">
+        <rect data-name="사각형 1791" width="19.618" height="16.022" rx="2.808" transform="translate(673.307 88.355)" style="stroke:#19984b;fill:#19984b;stroke-linejoin:round;stroke-width:1.5px"/>
+        <path data-name="사각형 1792" d="M1.5 0h3.4v6.788A2.242 2.242 0 0 1 2.66 9.03h-.418A2.242 2.242 0 0 1 0 6.788V1.5A1.5 1.5 0 0 1 1.5 0z" transform="translate(672.116 84.722)" style="stroke:#fff;fill:#19984b;stroke-linejoin:round;stroke-width:1.5px"/>
+        <path data-name="사각형 1793" d="M0 0h4.9v6.788A2.242 2.242 0 0 1 2.66 9.03h-.418A2.242 2.242 0 0 1 0 6.788V0z" transform="translate(676.39 84.722)" style="stroke:#fff;fill:#19984b;stroke-linejoin:round;stroke-width:1.5px"/>
+        <path data-name="사각형 1794" d="M0 0h4.9v6.788A2.242 2.242 0 0 1 2.66 9.03h-.418A2.242 2.242 0 0 1 0 6.788V0z" transform="translate(680.666 84.722)" style="stroke:#fff;fill:#19984b;stroke-linejoin:round;stroke-width:1.5px"/>
+        <path data-name="사각형 1795" d="M0 0h4.9v6.788A2.242 2.242 0 0 1 2.66 9.03h-.418A2.242 2.242 0 0 1 0 6.788V0z" transform="translate(684.94 84.722)" style="stroke:#fff;fill:#19984b;stroke-linejoin:round;stroke-width:1.5px"/>
+        <path data-name="사각형 1796" d="M0 0h3.4a1.5 1.5 0 0 1 1.5 1.5v5.288A2.242 2.242 0 0 1 2.66 9.03h-.418A2.242 2.242 0 0 1 0 6.788V0z" transform="translate(689.214 84.722)" style="stroke:#fff;fill:#19984b;stroke-linejoin:round;stroke-width:1.5px"/>
+        <path data-name="사각형 1797" d="M1 0h2.483a1 1 0 0 1 1 1v6.632H0V1a1 1 0 0 1 1-1z" transform="translate(684.277 97.745)" style="fill:#fff"/>
+    </g>
+</svg>

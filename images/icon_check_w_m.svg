@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11.71" height="8.403" viewBox="0 0 11.71 8.403">
+    <defs>
+        <clipPath id="wcyadyh7da">
+            <path style="fill:none" d="M0 0h11.71v8.403H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="icon_check_w_m" style="isolation:isolate;clip-path:url(#wcyadyh7da)">
+        <path data-name="Icon feather-check" d="M15.589 9 9 15.592l-3-3" transform="translate(-4.939 -7.939)" style="stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;fill:none"/>
+    </g>
+</svg>

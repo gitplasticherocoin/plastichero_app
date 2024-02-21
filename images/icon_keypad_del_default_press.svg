@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.5" height="21.5" viewBox="0 0 28.5 21.5">
+    <defs>
+        <clipPath id="slwd57xaga">
+            <path style="fill:none" d="M0 0h28.5v21.5H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="icon_keypad_del_default" style="isolation:isolate;clip-path:url(#slwd57xaga)">
+        <g data-name="Icon feather-delete">
+            <path data-name="패스 165" d="M26.045 6H10.091L1.5 16l8.591 10h15.954a2.478 2.478 0 0 0 2.455-2.5v-15A2.478 2.478 0 0 0 26.045 6z" style="stroke:#19984b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;fill:none" transform="translate(-.75 -5.25)"/>
+            <path data-name="패스 166" d="M25.227 13.5 18 20.727" transform="translate(-3.656 -6.364)" style="stroke:#19984b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;fill:none"/>
+            <path data-name="패스 167" d="m18 13.5 7.227 7.227" transform="translate(-3.656 -6.364)" style="stroke:#19984b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;fill:none"/>
+        </g>
+    </g>
+</svg>

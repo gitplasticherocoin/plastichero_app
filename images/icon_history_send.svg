@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.207" height="7.414" viewBox="0 0 9.207 7.414">
+    <defs>
+        <clipPath id="2rjl41miea">
+            <path style="fill:none" d="M0 0h9.207v7.414H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="icon_history_send" style="isolation:isolate;clip-path:url(#2rjl41miea)">
+        <g data-name="그룹 226">
+            <path data-name="선 20" transform="translate(.707 3.707)" style="stroke:#f05b5b;stroke-linecap:round;fill:none" d="M0 0h8"/>
+            <g data-name="그룹 225">
+                <path data-name="선 21" transform="translate(.707 .707)" style="stroke:#f05b5b;stroke-linecap:round;fill:none" d="M3 0 0 3"/>
+                <path data-name="선 22" transform="translate(.707 3.707)" style="stroke:#f05b5b;stroke-linecap:round;fill:none" d="M3 3 0 0"/>
+            </g>
+        </g>
+    </g>
+</svg>

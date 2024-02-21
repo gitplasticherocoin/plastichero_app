@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.414" height="7.414" viewBox="0 0 7.414 7.414">
+    <defs>
+        <clipPath id="9uzx30ai3a">
+            <path style="fill:none" d="M0 0h7.414v7.414H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 397" style="isolation:isolate;clip-path:url(#9uzx30ai3a)">
+        <path data-name="선 31" transform="translate(.707 .707)" style="stroke:#fff;stroke-linecap:round;fill:none" d="M6 0 0 6"/>
+        <path data-name="선 32" transform="translate(.707 .707)" style="stroke:#fff;stroke-linecap:round;fill:none" d="m0 0 6 6"/>
+    </g>
+</svg>

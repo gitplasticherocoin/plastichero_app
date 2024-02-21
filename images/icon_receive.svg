@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <g data-name="icon_receive">
+        <path data-name="사각형 1727" style="fill:none" d="M0 0h16v16H0z"/>
+        <path data-name="선 18" transform="translate(1 15.25)" style="stroke:#fff;stroke-linecap:round;stroke-width:1.5px;fill:none" d="M0 0h14"/>
+        <path data-name="선 23" transform="translate(1 10.25)" style="stroke:#fff;stroke-linecap:round;stroke-width:1.5px;fill:none" d="M0 0v5"/>
+        <path data-name="선 24" transform="translate(15 10.25)" style="stroke:#fff;stroke-linecap:round;stroke-width:1.5px;fill:none" d="M0 0v5"/>
+        <path data-name="선 20" transform="rotate(-90 8.875 .875)" style="stroke:#fff;stroke-linecap:round;stroke-width:1.5px;fill:none" d="M0 0h9"/>
+        <path data-name="선 21" transform="rotate(-90 7.375 3.375)" style="stroke:#fff;stroke-linecap:round;stroke-width:1.5px;fill:none" d="M4 0 0 4"/>
+        <path data-name="선 22" transform="rotate(-90 9.375 1.375)" style="stroke:#fff;stroke-linecap:round;stroke-width:1.5px;fill:none" d="M4 4 0 0"/>
+    </g>
+</svg>

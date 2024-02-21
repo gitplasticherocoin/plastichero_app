@@ -1,0 +1,18 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by sigmachain on 2023/05/15.
+  
+*/
+"NSCameraUsageDescription" = "To use the feature of capturing photos or videos and attaching them to posts, and to upload my profile picture, camera permission is required.";
+"NSFaceIDUsageDescription" = "To use the app unlocking feature using facial ID, access to face ID is required.";
+"NSMicrophoneUsageDescription" = "When capturing videos, permission to use the microphone for recording audio is required.";
+
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Permission is needed to access my location for nearby search and post registration features.";
+"NSLocationAlwaysUsageDescription" = "Permission is needed to access my location for nearby search and post registration features.";
+"NSLocationWhenInUseUsageDescription" = "Permission is needed to access my location for nearby search and post registration features.";
+
+
+"NSPhotoLibraryAddUsageDescription" = "Permission is required to access the photo library in order to capture photos or videos, save them to the photo album, attach them to posts, and capture my profile picture.";
+"NSPhotoLibraryUsageDescription" = "Permission is required to access the photo library in order to capture photos or videos, attach them to posts, and capture my profile picture for registration purposes.";
